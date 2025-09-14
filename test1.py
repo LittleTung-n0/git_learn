@@ -1,4 +1,3 @@
 import test
-
 print("git")
-fun1(3)
+test.fun1(3)
